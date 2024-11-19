@@ -36,7 +36,6 @@ A sleek, professional portfolio for Olivia Woodruff, showcasing her talents, ski
 
 ## 🔧 Technologies Used:
 - **HTML5**, **CSS3**
-- 
 Feel free to explore each project and see the work for yourself! 😊
 
 ---
