@@ -1,6 +1,6 @@
 # My Web Development Projects 🚀
 
-Welcome to my collection of web development projects! Each project demonstrates my ability to create interactive and visually appealing websites using HTML, CSS, and JavaScript.
+Welcome to my collection of web development projects! Each project demonstrates my ability to create interactive and visually appealing websites using HTML, CSS
 
 ---
 
@@ -35,9 +35,8 @@ A sleek, professional portfolio for Olivia Woodruff, showcasing her talents, ski
 ---
 
 ## 🔧 Technologies Used:
-- **HTML5**, **CSS3**, **JavaScript**
-- Responsive web design for mobile-first applications
-
+- **HTML5**, **CSS3**
+- 
 Feel free to explore each project and see the work for yourself! 😊
 
 ---
